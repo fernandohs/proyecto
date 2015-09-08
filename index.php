@@ -5,6 +5,4 @@ echo "Prueba Git";
 
 
 
-echo "";
-
 ?>
